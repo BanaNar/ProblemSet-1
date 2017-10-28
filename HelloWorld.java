@@ -4,8 +4,6 @@ public class HelloWorld {
 
         System.out.println("HelloWorld");
 
-        System.out.println("My name is Siri. What's your name?");
-
     }
 
 }
